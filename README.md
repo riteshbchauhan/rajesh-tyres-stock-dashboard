@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rajesh Tyres & Co. Inventory Management System
 
 A Flutter application for managing tyre inventory across multiple branches.
@@ -86,6 +85,4 @@ The app uses the following color scheme:
 ## License
 
 This project is proprietary and intended for use by Rajesh Tyres & Co. only. 
-=======
-# rajesh-tyres-stock-dashboard
->>>>>>> c1d53d01a53245c381265a916d25213f07571f76
+
